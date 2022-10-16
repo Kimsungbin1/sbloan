@@ -6,7 +6,7 @@
 //
 // Scripts
 // 
-
+alert("This is just made for fun");
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
